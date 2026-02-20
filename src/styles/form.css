@@ -1,0 +1,25 @@
+.form-task {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+    margin: 10px;
+}
+
+.form-task .input {
+    padding: 5px 5px;
+    width: 70%;
+    border-radius: 7px;
+    border: none;
+    background-color: #ffffff;
+}
+
+
+.form-task .buttons {
+    display: flex;
+    gap: 10px;
+    width: 70%;
+    justify-content: center;
+}
+
+
